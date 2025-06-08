@@ -28,4 +28,4 @@ const routes = [
   },
 ];
 
-module.exports = routes;rou
+module.exports = routes;
